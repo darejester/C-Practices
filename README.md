@@ -1,2 +1,2 @@
 # CppPractices
-This repository holds any sample coding practices in C++
+This repository holds any sample coding practices I have done in C++
